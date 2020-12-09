@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<solar_system>
+		<head>
+			<image>
+				<url>https://aasnova.org/wp-content/uploads/2016/11/fig13.jpg</url>
+				<title>Солнечная система</title>
+				<link>https://spaceyou.ru/kosmos/solnechnaya-sistema</link>
+			</image>
+		</head>
+		
+		<body>
+			<stars>
+				<star id="0">
+					<name>СОЛНЦЕ</name>
+					<common_text>Жёлтая звезда</common_text>
+					<diameter>1 392 000 км</diameter>
+					<surface_temperature>средняя 5 505 °С</surface_temperature>
+					<rotational_speed>19,4 км/сек</rotational_speed>
+					<age>4,5 млрд. лет</age>
+					<apparent_magnitude>−26,74</apparent_magnitude>
+					<absolute_magnitude>4,83</absolute_magnitude>
+					<spectral_class>G2V</spectral_class>
+					<reasons_to_talk>
+						<p>
+							<i>9 поводов поговорить о Солнце:</i>
+							<br>- Первая «профессиональная» фотография Солнца была сделана французскими физиками Л.Фуко и И.Физо 2 апреля 1845 г.</br>
+							<br>- Солнце — не единственная звезда, вокруг которой вращаются все планеты: есть и другие звезды с вращающимися вокруг них планетами.</br>
+							<br>- Свет от Солнца до Земли добирается за 8,3 минуты.</br>
+							<br>- Масса солнца составляет 99,86 от «веса» всей Солнечной системы.</br>
+							<br>- За 1 секунду термоядерной реакции сгорает 5 миллионов тонн водорода.</br>
+							<br>- Звезда не имеет твердой поверхности, а состоит из слоев.</br>
+							<br>- Расстояние от Солнца до Луны превосходит в 400 раз прямую от Луны до Земли, благодаря этому можно наблюдать солнечное затмение.</br>
+							<br>- Солнечный ветер представляет собой выброс ионизированных частиц с поверхности «короны», выбрасываемых со скоростью в 400 км/с во всех направлениях.</br>
+							<br>- При попадании солнечного ветра на магнитное поле Земли мы наблюдаем удивительное зрелище — Северное сияние.</br>
+							<br>- Конец света, согласно научным исследованиям, состоится не раньше чем через 5 миллиардов лет, когда на Солнце закончится водород.</br>
+						</p>
+					</reasons_to_talk>
+				</star>
+			</stars>
+			
+			<planets>
+				<planet id="1">
+					<name>МЕРКУРИЙ</name>
+					<common_text>Первая планета от Солнца</common_text>
+					<diameter>4 879 км</diameter>
+					<weight>3,3 * 10^23 кг</weight>
+					<average_density>5,43 г/см^3</average_density>
+					<surface_temperature>от -180 до +430 °С</surface_temperature>
+					<orbiting_the_sun>88 земных суток</orbiting_the_sun>
+					<orbital_speed>48 км/сек</orbital_speed>
+					<distance_from_the_sun>58 млн. км</distance_from_the_sun>
+					<satellites>отсутствуют</satellites>
+				</planet>
+				
+				<planet id="2">
+					<name>ВЕНЕРА</name>
+					<common_text>Вторая планета от Солнца</common_text>
+					<diameter>12 104 км</diameter>
+					<weight>4,87 * 10^24 кг</weight>
+					<average_density>5,24 г/см^3</average_density>
+					<surface_temperature>около +475 °С</surface_temperature>
+					<orbiting_the_sun>224,7 земных суток</orbiting_the_sun>
+					<orbital_speed>35 км/сек</orbital_speed>
+					<distance_from_the_sun>108 млн. км</distance_from_the_sun>
+					<satellites>сутствуют</satellites>
+				</planet>
+				
+				<planet id="3">
+					<name>ЗЕМЛЯ</name>
+					<common_text>Третья планета от Солнца</common_text>
+					<diameter>12 742 км</diameter>
+					<weight>5,98 * 10^24 кг</weight>
+					<average_density>5,52 г/см^3</average_density>
+					<surface_temperature>от -89 до +58 °С</surface_temperature>
+					<orbiting_the_sun>365,26 земных суток</orbiting_the_sun>
+					<orbital_speed>30 км/сек</orbital_speed>
+					<distance_from_the_sun>150 млн. км</distance_from_the_sun>
+					<satellites>
+						<satellite id="3.1">
+							<name>Луна</name>
+							<diameter>3 474 км</diameter>
+							<weight>7,3 * 10^22 кг</weight>
+							<average_density>3,3 г/см^3</average_density>
+							<surface_temperature>от -160 до +120 °C</surface_temperature>
+							<orbital_period>27 земных суток</orbital_period>
+							<orbital_speed>1 км/с</orbital_speed>
+							<average_distance>от Земли 384 400 км</average_distance>
+						</satellite>
+					</satellites>
+				</planet>
+				
+				<planet id="4">
+					<name>МАРС</name>
+					<common_text>Четвёртая планета от Солнца</common_text>
+					<diameter>6 772 км</diameter>
+					<weight>6,41 * 10^23 кг</weight>
+					<average_density>3,93 г/см^3</average_density>
+					<surface_temperature>от -153 до +30 °С</surface_temperature>
+					<orbiting_the_sun>687 земных суток</orbiting_the_sun>
+					<orbital_speed>24 км/сек</orbital_speed>
+					<distance_from_the_sun>228 млн. км</distance_from_the_sun>
+					<satellites>
+						<total_amount>Фобос, Деймос</total_amount>
+						<satellite id="4.1">
+							<name>Фобос</name>
+							<dimensions>26,8 × 22,4 × 18,4 км</dimensions>
+							<diameter>22,2 км</diameter>
+							<surface_area>1 600 км^2</surface_area>
+							<weight>1,072 * 10^16 кг</weight>
+							<average_density>1,876 г/см^3</average_density>
+							<surface_temperature>средняя -40 °C</surface_temperature>
+							<orbital_period>7 ч 39 мин 14 с</orbital_period>
+							<period_of_rotation_around_the_axis>синхронизирован</period_of_rotation_around_the_axis>
+							<average_distance>от Марса 9 400 км</average_distance>
+							<atmosphere>отсутствует</atmosphere>
+						</satellite>
+						<satellite id="4.2">
+							<name>Деймос</name>
+							<dimensions>15 × 12,2 × 10,4 км</dimensions>
+							<diameter>12 км</diameter>
+							<weight>1,48 * 10^15 кг</weight>
+							<average_density>1,471 г/см^3</average_density>
+							<surface_temperature>средняя -40 °C</surface_temperature>
+							<orbital_period>30 ч 17 мин 55 с</orbital_period>
+							<period_of_rotation_around_the_axis>синхронизирован</period_of_rotation_around_the_axis>
+							<average_distance>от Марса 23 458 км</average_distance>
+							<atmosphere>отсутствует</atmosphere>
+						</satellite>
+					</satellites>
+				</planet>
+				
+				<planet id="5">
+					<name>ЮПИТЕР</name>
+					<common_text>Пятая планета от Солнца</common_text>
+					<diameter>143 000 км</diameter>
+					<weight>1,9 * 10^27 кг</weight>
+					<average_density>1,32 г/см^3</average_density>
+					<surface_temperature>средняя +130 °С</surface_temperature>
+					<orbiting_the_sun>11,86 земных лет</orbiting_the_sun>
+					<orbital_speed>13 км/сек</orbital_speed>
+					<distance_from_the_sun>778 млн. км</distance_from_the_sun>
+					<satellites>
+						<total_amount>Ио, Европа, Ганимед, Каллисто - всего 63</total_amount>
+						<satellite id="5.1">
+							<name>Ио</name>
+							<dimensions>3 660,0 × 3 637,4 × 3 630,6 км</dimensions>
+							<diameter>3 642 км</diameter>
+							<surface_area>41 910 000 км^2</surface_area>
+							<weight>8,9319 * 10^22 кг</weight>
+							<average_density>3,528 г/см^3</average_density>
+							<surface_temperature>средняя -160 °C</surface_temperature>
+							<orbital_period>42 ч 30 м</orbital_period>
+							<period_of_rotation_around_the_axis>синхронизирован</period_of_rotation_around_the_axis>
+							<average_distance>от Юпитера 350 000 км</average_distance>
+							<atmosphere>90% диоксид серы</atmosphere>
+						</satellite>
+						<satellite id="5.2">
+							<name>Каллисто</name>
+							<diameter>4 820 км</diameter>
+							<surface_area>73 000 000 км^2</surface_area>
+							<weight>1,076 * 10^23 кг</weight>
+							<average_density>1,834 г/см^3</average_density>
+							<surface_temperature>от -198 до -103 °C</surface_temperature>
+							<orbital_period>16,689 дней</orbital_period>
+							<period_of_rotation_around_the_axis>синхронизирован</period_of_rotation_around_the_axis>
+							<average_distance>от Юпитера 1 882 000 км</average_distance>
+							<atmosphere>4 * 10^8 см^−3 диоксида углерода, 2 * 10^10 см^−3 молекулярного кислорода</atmosphere>
+						</satellite>
+					</satellites>
+				</planet>			
+				
+				<planet id="6">
+					<name>САТУРН</name>
+					<common_text>Шестая планета от Солнца</common_text>
+					<diameter>120 536 км</diameter>
+					<weight>5,68 * 10^26 кг</weight>
+					<average_density>0,69 г/см^3</average_density>
+					<surface_temperature>средняя -180 °С</surface_temperature>
+					<orbiting_the_sun>26,5 земных лет</orbiting_the_sun>
+					<orbital_speed>10 км/сек</orbital_speed>
+					<distance_from_the_sun>1,43 млрд. км</distance_from_the_sun>
+					<satellites>
+						<total_amount>Титан, Япет, Рея, Тефия, Диона, Энцелад, Мимас, Гиперион, Феба, Янус, Эпиметей - всего 62</total_amount>
+						<satellite id="6.1">
+							<name>Рея</name>
+							<diameter>1 527 км</diameter>
+							<surface_area>7 330 000 км^2</surface_area>
+							<weight>2,307 * 10^21 кг</weight>
+							<average_density>1,237 г/см^3</average_density>
+							<surface_temperature>от -230 до -170 °C</surface_temperature>
+							<orbital_period>4,518 дней</orbital_period>
+							<period_of_rotation_around_the_axis>синхронизирован</period_of_rotation_around_the_axis>
+							<average_distance>от Сатурна 527 040 км</average_distance>
+							<atmosphere>70% кислород, 30% углекислый газ</atmosphere>
+						</satellite>
+						<satellite id="6.2">
+							<name>Диона</name>
+							<diameter>1 123 км</diameter>
+							<surface_area>3 960 000 км^2</surface_area>
+							<weight>1,095 * 10^21 кг</weight>
+							<average_density>1,4757 г/см^3</average_density>
+							<surface_temperature>средняя -186 °C</surface_temperature>
+							<orbital_period>2,77 дня</orbital_period>
+							<period_of_rotation_around_the_axis>синхронизирован</period_of_rotation_around_the_axis>
+							<average_distance>от Сатурна 377 400 км</average_distance>
+							<atmosphere>следы кислорода</atmosphere>
+						</satellite>
+					</satellites>
+				</planet>
+				
+				<planet id="7">
+					<name>УРАН</name>
+					<common_text>Седьмая планета от Солнца</common_text>
+					<diameter>51 118 км</diameter>
+					<weight>8,68 * 10^25 кг</weight>
+					<average_density>1,27 г/см^3</average_density>
+					<surface_temperature>средняя -210 °С</surface_temperature>
+					<orbiting_the_sun>84 земных года</orbiting_the_sun>
+					<orbital_speed>7 км/сек</orbital_speed>
+					<distance_from_the_sun>2,8 млрд. км</distance_from_the_sun>
+					<satellites>
+						<total_amount>Спутники Титания, Оберон, Пак - всего 27</total_amount>
+					</satellites>
+				</planet>			
+			
+				<planet id="8">
+					<name>НЕПТУН</name>
+					<common_text>Восьмая планета от Солнца</common_text>
+					<diameter>50 538 км</diameter>
+					<weight>1,02 * 10^26 кг</weight>
+					<average_density>1,67 г/см^3</average_density>
+					<surface_temperature>средняя -220 °С</surface_temperature>
+					<orbiting_the_sun>164,8 земных лет</orbiting_the_sun>
+					<orbital_speed>5 км/сек</orbital_speed>
+					<distance_from_the_sun>4,5 млрд. км</distance_from_the_sun>
+					<satellites>
+						<total_amount>Тритон, Нереида, Ларисса, Протей, Деспина, Галатея, Таласса, Наяда, Сао, Галимеда, Лаомедея, Несо, Псамафа</total_amount>
+					</satellites>
+				</planet>			
+			</planets>
+		</body>
+	</solar_system>
+	
+	
